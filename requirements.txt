@@ -1,0 +1,23 @@
+# Satellite Communication Simulation System
+# Core dependencies
+
+# Orbital mechanics
+skyfield>=1.48.0
+
+# Scientific computing
+numpy>=1.26.0
+scipy>=1.12.0
+pandas>=2.2.0
+
+# Visualisation — Streamlit dashboard
+streamlit>=1.34.0
+plotly>=5.20.0
+
+# Visualisation — Matplotlib (for report PNG export)
+matplotlib>=3.8.0
+
+# PDF report generation
+reportlab>=4.1.0
+
+# Plotly static image export (used if kaleido is available)
+kaleido>=0.2.1

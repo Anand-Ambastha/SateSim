@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Skyfield data cache
+*.bsp
+*.npy
+finals2000A.all
+Deltat.data
+Deltat.preds
+
+# Output files (generated at runtime — commit only if desired)
+outputs/data/*.csv
+outputs/plots/*.png
+outputs/*.pdf
+
+# But keep directory markers
+!outputs/data/.gitkeep
+!outputs/plots/.gitkeep
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
