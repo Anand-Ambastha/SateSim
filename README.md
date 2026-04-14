@@ -1,4 +1,4 @@
-# 🚀 Heliosphere — Satellite Link Budget & Visualization Simulator
+# 🚀 Heliosphere - Satellite Link Budget & Visualization Simulator
 
 ## 📌 Overview
 
