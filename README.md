@@ -112,6 +112,17 @@ python run_simulation.py --duration 90 --modulation BPSK --freq 2.0
 - High-resolution plots (PNG)  
 - Structured technical PDF report  
 
+## 📸 Screenshots
+
+
+<p align="center">
+  <img src="assests/world_map.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assests/plots.png" width="800"/>
+</p>
+
 ---
 
 ## ⚠️ Disclaimer
