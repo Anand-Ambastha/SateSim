@@ -1,8 +1,8 @@
-# 🚀 Heliosphere - Satellite Link Budget & Visualization Simulator
+# 🚀 SateSim - Satellite Link Budget & Visualization Simulator
 
 ## 📌 Overview
 
-Heliosphere is a **satellite communication simulation system** that models link performance between satellites and a ground station. It integrates orbital propagation, RF link budget analysis, and interactive visualization into a unified pipeline.
+SateSim is a **satellite communication simulation system** that models link performance between satellites and a ground station. It integrates orbital propagation, RF link budget analysis, and interactive visualization into a unified pipeline.
 
 The system produces **engineering-grade outputs** including Signal-to-Noise Ratio (SNR), Bit Error Rate (BER), Doppler shift, and elevation angle, along with exportable datasets and structured PDF reports.
 
